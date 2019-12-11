@@ -1,4 +1,4 @@
-package CollectionsFramework;
+package CollectionsFramework.ArrayList;
 
 import java.util.ArrayList;
 
