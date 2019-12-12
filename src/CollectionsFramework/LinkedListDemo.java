@@ -1,4 +1,4 @@
-package CollectionsFramework.ArrayList;
+package CollectionsFramework;
 //Demonstrate LinkedList
 
 import java.util.LinkedList;
@@ -37,7 +37,7 @@ class LinkedListDemo {
 
         // Get and set a value
         String val = ll.get(2);
-        ll.set(2, val + "Changed");
+        ll.set(2, val + " Changed");
 
         System.out.println("ll after change: " + ll);
     }
