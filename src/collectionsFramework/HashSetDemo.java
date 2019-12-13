@@ -1,4 +1,4 @@
-package CollectionsFramework;
+package collectionsFramework;
 //Demonstrate HashSet
 //HashSet does not guarantee the order of elements, but it is quick (execution time of methods
 // add(), contains(), remove() and size() is constant)

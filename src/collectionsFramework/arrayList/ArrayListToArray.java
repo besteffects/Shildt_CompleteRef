@@ -1,4 +1,4 @@
-package CollectionsFramework.arrayList;
+package collectionsFramework.arrayList;
 //Convert an arrayList into an Array
 
 import java.util.ArrayList;

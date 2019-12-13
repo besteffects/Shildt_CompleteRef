@@ -1,4 +1,4 @@
-package CollectionsFramework;
+package collectionsFramework;
 //LinkedHashSet maintains the order in which entries of the set were inserted
 
 import java.util.LinkedHashSet;

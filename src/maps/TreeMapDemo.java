@@ -1,4 +1,4 @@
-package Maps;
+package maps;
 
 import java.util.Map;
 import java.util.Set;

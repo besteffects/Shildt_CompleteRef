@@ -1,4 +1,4 @@
-package CollectionsFramework.userDefinedClasses;
+package collectionsFramework.userDefinedClasses;
 
 import java.util.LinkedList;
 
