@@ -6,7 +6,7 @@ import java.util.ListIterator;
 
 class IteratorDemo {
     public static void main(String[] args) {
-        //Create an ArrayList
+        //Create an arrayList
         ArrayList<String> al = new ArrayList<String>();
 
         //Add elements to the Array list

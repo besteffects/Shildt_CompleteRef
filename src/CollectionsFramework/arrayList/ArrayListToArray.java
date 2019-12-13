@@ -1,5 +1,5 @@
-package CollectionsFramework.ArrayList;
-//Convert an ArrayList into an Array
+package CollectionsFramework.arrayList;
+//Convert an arrayList into an Array
 
 import java.util.ArrayList;
 

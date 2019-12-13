@@ -1,11 +1,11 @@
-package CollectionsFramework.ArrayList;
+package CollectionsFramework.arrayList;
 
 import java.util.ArrayList;
 
-//Demonstrate ArrayList
+//Demonstrate arrayList
 public class ArrayListDemo {
     public static void main(String[] args) {
-        //Create an ArrayList
+        //Create an arrayList
         ArrayList<String> al = new ArrayList<String>();
 
         System.out.println("Initial size of al: " + al.size());

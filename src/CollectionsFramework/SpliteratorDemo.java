@@ -9,7 +9,7 @@ class SpliteratorDemo {
         //Create an array list of doubles
         ArrayList<Double> vals = new ArrayList<Double>();
 
-        //Add values to the ArrayList
+        //Add values to the arrayList
         vals.add(1.0);
         vals.add(2.0);
         vals.add(3.0);
