@@ -34,8 +34,11 @@ class ArraysDemo {
         System.out.println(index);
 
         int array2[] = Arrays.copyOfRange(array, 0, 5);
-        System.out.println("copyOfRange used: ");
+        System.out.print("copyOfRange used: ");
         display(array2);
+
+        boolean compareArrays = Arrays.equals(array,array2);
+        System.out.print("arr and arr1 are equal: " +compareArrays);
     }
 
     static void display(int array[]) {
