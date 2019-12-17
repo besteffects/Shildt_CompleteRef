@@ -21,6 +21,17 @@ class ArraysDemo {
         Arrays.fill(array, 2, 6, -1);
         System.out.print("After fill: ");
         display(array);
+
+        //Sort and display the array
+        Arrays.sort(array);
+        System.out.print("After sorting again: ");
+        display(array);
+
+        //Binary search for -9
+        System.out.print("The value -9 is at location ");
+        int index =
+                Arrays.binarySearch(array, -9);
+        System.out.println(index);
     }
 
     static void display(int array[]) {
