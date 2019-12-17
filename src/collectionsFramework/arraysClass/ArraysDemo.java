@@ -32,6 +32,10 @@ class ArraysDemo {
         int index =
                 Arrays.binarySearch(array, -9);
         System.out.println(index);
+
+        int array2[] = Arrays.copyOfRange(array, 0, 5);
+        System.out.println("copyOfRange used: ");
+        display(array2);
     }
 
     static void display(int array[]) {
