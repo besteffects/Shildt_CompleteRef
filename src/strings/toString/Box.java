@@ -1,4 +1,4 @@
-package strings;
+package strings.toString;
 //Override toString for Box class
 class Box {
     double width;
